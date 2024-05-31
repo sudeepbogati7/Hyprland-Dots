@@ -1,6 +1,6 @@
 # Arch Rice 
 
-_Got addicted to Arch + Hyprland ......_
+`Got addicted to Arch + Hyprland ......`
 
 
 Linux distro : **Arch Linux**
