@@ -1,5 +1,8 @@
 # Arch Rice 
 
+Got addicted to Arch + Hyprland ......
+
+
 Linux distro : **Arch Linux**
 
 
