@@ -1,4 +1,4 @@
-# Dotfiles 
+# Arch Rice 
 
 Linux distro : **Arch Linux**
 
