@@ -1,6 +1,6 @@
 # Arch Rice 
 
-`Got addicted to Arch + Hyprland ......`
+`Arch Linux with Hyprland Desktop Environment(DE) manual configuration files `
 
 
 Linux distro : **Arch Linux**
